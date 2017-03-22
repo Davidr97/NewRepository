@@ -9,5 +9,5 @@ aaaa
 
 Modification on Schrodinger
 
-Some bugs
+Modification on Schrodinger 2
 
